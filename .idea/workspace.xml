@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d798aa15-24da-4ebb-ba8b-2fab51954938" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindBugs-IDEA-Workspace">
+    <toolWindowEditorPreview>false</toolWindowEditorPreview>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1U24iNUCuSSK2BC4PASKWfV7wxr" />
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.newtoursDemoaut" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.Tests">
+    <configuration name="Tests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Kursach" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.newtoursDemoaut.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.newtoursDemoaut.test" />
+      <option name="MAIN_CLASS_NAME" value="com.newtoursDemoaut.test.Tests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tests.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Kursach" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.newtoursDemoaut.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.newtoursDemoaut.test" />
+      <option name="MAIN_CLASS_NAME" value="com.newtoursDemoaut.test.Tests" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tests.testFlightFinderPage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Kursach" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.newtoursDemoaut.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.newtoursDemoaut.test" />
+      <option name="MAIN_CLASS_NAME" value="com.newtoursDemoaut.test.Tests" />
+      <option name="METHOD_NAME" value="testFlightFinderPage" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tests.testHomePage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Kursach" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.newtoursDemoaut.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.newtoursDemoaut.test" />
+      <option name="MAIN_CLASS_NAME" value="com.newtoursDemoaut.test.Tests" />
+      <option name="METHOD_NAME" value="testHomePage" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Tests" />
+        <item itemvalue="JUnit.Tests.testFlightFinderPage" />
+        <item itemvalue="JUnit.Tests.testHomePage" />
+        <item itemvalue="JUnit.Tests.test1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d798aa15-24da-4ebb-ba8b-2fab51954938" name="Default Changelist" comment="" />
+      <created>1574541482425</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574541482425</updated>
+    </task>
+    <servers />
+  </component>
+</project>
